@@ -1,0 +1,404 @@
+INFO 2025-08-30 18:57:06,637 autoreload 43357 8244890624 Watching for file changes with StatReloader
+INFO 2025-08-30 18:57:21,749 basehttp 43357 6158413824 "GET / HTTP/1.1" 200 12068
+INFO 2025-08-30 18:57:30,644 basehttp 43357 6158413824 "GET / HTTP/1.1" 200 12068
+INFO 2025-08-30 18:58:40,819 autoreload 43357 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/julie/urls.py changed, reloading.
+INFO 2025-08-30 18:58:41,168 autoreload 44353 8244890624 Watching for file changes with StatReloader
+INFO 2025-08-30 18:59:10,041 autoreload 44353 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/julie/settings.py changed, reloading.
+INFO 2025-08-30 18:59:10,328 autoreload 44675 8244890624 Watching for file changes with StatReloader
+INFO 2025-08-30 18:59:20,714 autoreload 44675 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/julie/settings.py changed, reloading.
+INFO 2025-08-30 18:59:20,993 autoreload 44788 8244890624 Watching for file changes with StatReloader
+INFO 2025-08-30 18:59:29,353 autoreload 44788 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/julie/settings.py changed, reloading.
+INFO 2025-08-30 18:59:29,640 autoreload 44898 8244890624 Watching for file changes with StatReloader
+INFO 2025-08-30 18:59:45,067 autoreload 44898 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/julie/settings.py changed, reloading.
+INFO 2025-08-30 18:59:45,339 autoreload 45012 8244890624 Watching for file changes with StatReloader
+INFO 2025-08-30 19:00:13,008 autoreload 45012 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/julie/settings.py changed, reloading.
+INFO 2025-08-30 19:00:13,273 autoreload 45336 8244890624 Watching for file changes with StatReloader
+INFO 2025-08-30 19:02:48,618 basehttp 47630 6117732352 "GET / HTTP/1.1" 200 18152
+INFO 2025-08-30 19:03:53,064 basehttp 47630 6117732352 "GET / HTTP/1.1" 200 18152
+INFO 2025-08-30 19:03:53,083 basehttp 47630 6134558720 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 14879
+INFO 2025-08-30 19:03:53,084 basehttp 47630 6117732352 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 29468
+INFO 2025-08-30 19:03:53,568 basehttp 47630 6134558720 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2025-08-30 19:03:53,569 basehttp 47630 6151385088 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4700
+INFO 2025-08-30 19:03:53,582 basehttp 47630 6117732352 "GET /api/schema/ HTTP/1.1" 200 183
+WARNING 2025-08-30 19:04:00,490 log 47630 6117732352 Not Found: /api/v1/docs/
+WARNING 2025-08-30 19:04:00,490 basehttp 47630 6117732352 "GET /api/v1/docs/ HTTP/1.1" 404 16830
+INFO 2025-08-30 19:04:10,087 basehttp 47630 6117732352 "GET /api/schema/ HTTP/1.1" 200 111
+INFO 2025-08-30 19:04:21,639 basehttp 47630 6117732352 "GET /api/docs/ HTTP/1.1" 200 18160
+INFO 2025-08-30 19:04:21,658 basehttp 47630 6151385088 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2025-08-30 19:04:21,658 basehttp 47630 6117732352 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2025-08-30 19:04:21,705 basehttp 47630 6151385088 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2025-08-30 19:04:21,705 basehttp 47630 6151385088 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+INFO 2025-08-30 19:04:21,713 basehttp 47630 6117732352 "GET /api/schema/ HTTP/1.1" 200 183
+INFO 2025-08-30 19:04:29,776 basehttp 47630 6117732352 "GET /api/redoc HTTP/1.1" 301 0
+INFO 2025-08-30 19:04:29,793 basehttp 47630 6151385088 "GET /api/redoc/ HTTP/1.1" 200 14236
+INFO 2025-08-30 19:04:30,363 basehttp 47630 6151385088 "GET /api/schema/ HTTP/1.1" 200 111
+WARNING 2025-08-30 19:05:09,770 log 47630 6151385088 Not Found: /api/v1/docs/
+WARNING 2025-08-30 19:05:09,772 basehttp 47630 6151385088 "GET /api/v1/docs/ HTTP/1.1" 404 16830
+INFO 2025-08-30 19:05:09,785 basehttp 47630 6134558720 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2025-08-30 19:05:09,785 basehttp 47630 6151385088 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2025-08-30 19:05:09,785 basehttp 47630 6117732352 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2025-08-30 19:05:09,789 basehttp 47630 6117732352 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+WARNING 2025-08-30 19:05:12,346 log 47630 6117732352 Not Found: /api/v1/docs/
+WARNING 2025-08-30 19:05:12,346 basehttp 47630 6117732352 "GET /api/v1/docs/ HTTP/1.1" 404 16830
+WARNING 2025-08-30 19:05:13,375 log 47630 6117732352 Not Found: /api/v1/docs/
+WARNING 2025-08-30 19:05:13,375 basehttp 47630 6117732352 "GET /api/v1/docs/ HTTP/1.1" 404 16828
+INFO 2025-08-30 19:06:28,478 basehttp 50221 6189461504 "GET /api/v1/docs/ HTTP/1.1" 200 18167
+INFO 2025-08-30 19:06:28,493 basehttp 50221 6206287872 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2025-08-30 19:06:28,494 basehttp 50221 6189461504 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2025-08-30 19:06:28,527 basehttp 50221 6189461504 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2025-08-30 19:06:28,528 basehttp 50221 6189461504 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+INFO 2025-08-30 19:06:28,540 basehttp 50221 6206287872 "GET /api/v1/schema/ HTTP/1.1" 200 183
+INFO 2025-08-30 19:06:48,212 basehttp 50221 6206287872 "GET /__debug__/render_panel/?request_id=a4f54978e4384dee99c9b67517a9a632&panel_id=HeadersPanel HTTP/1.1" 200 4005
+INFO 2025-08-30 19:07:13,974 basehttp 50221 6206287872 "GET /__debug__/render_panel/?request_id=a4f54978e4384dee99c9b67517a9a632&panel_id=VersionsPanel HTTP/1.1" 200 1121
+INFO 2025-08-30 19:09:16,994 autoreload 52401 8244890624 Watching for file changes with StatReloader
+INFO 2025-08-30 19:10:12,858 autoreload 53124 8244890624 Watching for file changes with StatReloader
+INFO 2025-08-30 19:10:17,357 basehttp 53124 6164770816 "GET /api/v1/docs/ HTTP/1.1" 200 18167
+INFO 2025-08-30 19:10:17,377 basehttp 53124 6181597184 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 14879
+INFO 2025-08-30 19:10:17,378 basehttp 53124 6164770816 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 29468
+INFO 2025-08-30 19:10:17,409 basehttp 53124 6181597184 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2025-08-30 19:10:17,410 basehttp 53124 6198423552 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4700
+INFO 2025-08-30 19:10:17,422 basehttp 53124 6164770816 "GET /api/v1/schema/ HTTP/1.1" 200 183
+[2025-08-30 21:41:44] INFO django.utils.autoreload autoreload 51215 8244890624 Watching for file changes with StatReloader
+[2025-08-30 22:24:32] INFO django.server basehttp 78435 6115307520 "GET / HTTP/1.1" 200 18155
+[2025-08-30 22:25:21] INFO django test_logging 79292 8244890624 Django framework message
+[2025-08-30 22:26:33] INFO django.server basehttp 78435 6115307520 "GET /api/v1/docs/ HTTP/1.1" 200 18167
+[2025-08-30 22:26:33] INFO django.server basehttp 78435 6115307520 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+[2025-08-30 22:26:33] INFO django.server basehttp 78435 6132133888 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+[2025-08-30 22:26:33] INFO django.server basehttp 78435 6132133888 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+[2025-08-30 22:26:33] INFO django.server basehttp 78435 6115307520 "GET /api/v1/schema/ HTTP/1.1" 200 183
+[2025-08-30 22:26:33] INFO django.server basehttp 78435 6115307520 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+[2025-08-30 22:46:04] INFO django.server basehttp 78435 6115307520 "GET /api/v1/docs/ HTTP/1.1" 200 18166
+[2025-08-30 22:46:04] INFO django.server basehttp 78435 6115307520 "GET /api/v1/schema/ HTTP/1.1" 200 183
+[2025-08-30 22:46:07] INFO django.server basehttp 78435 6115307520 "GET /api/v1/docs/ HTTP/1.1" 200 18167
+[2025-08-30 22:46:07] INFO django.server basehttp 78435 6115307520 "GET /api/v1/schema/ HTTP/1.1" 200 183
+[2025-08-30 22:46:18] WARNING django.server basehttp 78435 6115307520 "GET /api/v1 HTTP/1.1" 404 16965
+[2025-08-30 22:46:18] INFO django.server basehttp 78435 6132133888 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+[2025-08-30 22:46:18] INFO django.server basehttp 78435 6115307520 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+[2025-08-30 22:46:18] INFO django.server basehttp 78435 6148960256 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+[2025-08-30 22:46:18] INFO django.server basehttp 78435 6148960256 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+[2025-08-30 22:46:26] INFO django.server basehttp 78435 6115307520 "GET /api/v1/docs/ HTTP/1.1" 200 18167
+[2025-08-30 22:46:26] INFO django.server basehttp 78435 6115307520 "GET /api/v1/schema/ HTTP/1.1" 200 183
+[2025-08-30 22:47:59] INFO django.server basehttp 78435 6115307520 "GET /api/v1/schema/ HTTP/1.1" 200 111
+[2025-08-30 22:52:40] INFO django.server basehttp 97331 6107967488 "GET /api/v1/schema/ HTTP/1.1" 200 22581
+[2025-08-30 22:53:24] INFO django.server basehttp 97331 6107967488 "GET /api/v1/docs/ HTTP/1.1" 200 18167
+[2025-08-30 22:53:24] INFO django.server basehttp 97331 6107967488 "GET /api/v1/schema/ HTTP/1.1" 200 48935
+[2025-08-30 23:00:04] WARNING django.server basehttp 97331 6107967488 "GET /api/v1/auth/token/ HTTP/1.1" 404 25473
+[2025-08-30 23:00:36] WARNING django.server basehttp 4413 6149386240 "GET /api/v1/auth/token/ HTTP/1.1" 405 40
+[2025-08-30 23:00:44] WARNING django.server basehttp 4413 6148812800 "POST /api/v1/auth/token/ HTTP/1.1" 401 63
+[2025-08-30 23:00:53] ERROR django.server basehttp 4413 6148812800 "POST /api/v1/auth/register/ HTTP/1.1" 500 50
+[2025-08-30 23:09:49] WARNING django.server basehttp 4413 6165639168 "GET /api/v1/auth/ HTTP/1.1" 404 27647
+[2025-08-30 23:09:49] INFO django.server basehttp 4413 6182465536 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+[2025-08-30 23:09:49] INFO django.server basehttp 4413 6165639168 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+[2025-08-30 23:09:49] INFO django.server basehttp 4413 6165639168 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+[2025-08-30 23:09:49] INFO django.server basehttp 4413 6165639168 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+[2025-08-30 23:10:07] WARNING django.server basehttp 4413 6148812800 "GET /api/v1/auth/register/ HTTP/1.1" 405 19388
+[2025-08-30 23:10:07] INFO django.server basehttp 4413 6199291904 "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+[2025-08-30 23:10:07] INFO django.server basehttp 4413 6165639168 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+[2025-08-30 23:10:07] INFO django.server basehttp 4413 6182465536 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+[2025-08-30 23:10:07] INFO django.server basehttp 4413 6232944640 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+[2025-08-30 23:10:07] INFO django.server basehttp 4413 6199291904 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+[2025-08-30 23:10:07] INFO django.server basehttp 4413 6216118272 "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+[2025-08-30 23:10:07] INFO django.server basehttp 4413 6148812800 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+[2025-08-30 23:10:07] INFO django.server basehttp 4413 6232944640 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+[2025-08-30 23:10:07] INFO django.server basehttp 4413 6182465536 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+[2025-08-30 23:10:07] INFO django.server basehttp 4413 6199291904 "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+[2025-08-30 23:10:07] INFO django.server basehttp 4413 6165639168 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+[2025-08-30 23:10:07] INFO django.server basehttp 4413 6182465536 "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+[2025-08-30 23:14:39] WARNING django.server basehttp 15116 6177845248 "POST /api/v1/auth/register/ HTTP/1.1" 400 58
+[2025-08-30 23:14:49] INFO django.server basehttp 15116 6177271808 "POST /api/v1/auth/register/ HTTP/1.1" 201 967
+[2025-08-30 23:14:58] INFO django.server basehttp 15116 6177271808 "POST /api/v1/auth/login/ HTTP/1.1" 200 955
+[2025-08-30 23:15:06] INFO django.server basehttp 15116 6177271808 "POST /api/v1/auth/token/ HTTP/1.1" 200 489
+[2025-08-30 23:15:16] WARNING django.server basehttp 15116 6177271808 "GET /api/v1/buyers/profile/ HTTP/1.1" 404 35
+[2025-08-30 23:15:51] INFO django.server basehttp 15116 6177271808 "GET /api/v1/docs/ HTTP/1.1" 200 18167
+[2025-08-30 23:15:51] INFO django.server basehttp 15116 6177271808 "GET /api/v1/schema/ HTTP/1.1" 200 88703
+[2025-08-30 23:18:01] INFO django.server basehttp 15116 6177271808 "GET /api/v1/redoc HTTP/1.1" 301 0
+[2025-08-30 23:18:01] INFO django.server basehttp 15116 6194098176 "GET /api/v1/redoc/ HTTP/1.1" 200 14242
+[2025-08-30 23:18:01] INFO django.server basehttp 15116 6194098176 "GET /api/v1/schema/ HTTP/1.1" 200 40987
+[2025-08-30 23:18:51] INFO django.server basehttp 15116 6177271808 "GET /api/v1/docs/ HTTP/1.1" 200 18165
+[2025-08-30 23:18:51] INFO django.server basehttp 15116 6177271808 "GET /api/v1/schema/ HTTP/1.1" 200 88703
+[2025-08-31 14:08:01] WARNING django.server basehttp 15116 6177271808 "GET /api/v1/buyers/ HTTP/1.1" 401 58
+[2025-08-31 14:08:01] INFO django.server basehttp 15116 6177271808 "GET /__debug__/history_sidebar/?request_id=e13bd44518ef407b804094fd3369f159 HTTP/1.1" 200 9499
+[2025-08-31 14:09:32] WARNING django.server basehttp 15116 6177271808 "POST /api/v1/auth/login/ HTTP/1.1" 401 31
+[2025-08-31 14:09:33] INFO django.server basehttp 15116 6177271808 "GET /__debug__/history_sidebar/?request_id=a9e87e670d784607a8256b15bd6222d7 HTTP/1.1" 200 9505
+[2025-08-31 14:10:24] WARNING django.server basehttp 15116 6177271808 "POST /api/v1/auth/token/ HTTP/1.1" 401 63
+[2025-08-31 14:10:24] INFO django.server basehttp 15116 6177271808 "GET /__debug__/history_sidebar/?request_id=f69918aa2dbf40fc8d2d2332a25556a3 HTTP/1.1" 200 9516
+[2025-08-31 14:10:40] INFO django.server basehttp 15116 6177271808 "GET / HTTP/1.1" 200 18154
+[2025-08-31 14:10:40] INFO django.server basehttp 15116 6177271808 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+[2025-08-31 14:10:40] INFO django.server basehttp 15116 6194098176 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+[2025-08-31 14:10:40] INFO django.server basehttp 15116 6177271808 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+[2025-08-31 14:10:40] INFO django.server basehttp 15116 6210924544 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+[2025-08-31 14:10:40] INFO django.server basehttp 15116 6194098176 "GET /api/v1/schema/ HTTP/1.1" 200 88703
+[2025-08-31 14:10:43] INFO django.server basehttp 15116 6194098176 "GET /admin/ HTTP/1.1" 302 0
+[2025-08-31 14:10:43] INFO django.server basehttp 15116 6194098176 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 17682
+[2025-08-31 14:10:43] INFO django.server basehttp 15116 6194098176 "GET /static/admin/css/base.css HTTP/1.1" 200 22120
+[2025-08-31 14:10:43] INFO django.server basehttp 15116 6210924544 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+[2025-08-31 14:10:43] INFO django.server basehttp 15116 6177271808 "GET /static/admin/css/login.css HTTP/1.1" 200 951
+[2025-08-31 14:10:43] INFO django.server basehttp 15116 6194098176 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+[2025-08-31 14:10:43] INFO django.server basehttp 15116 6227750912 "GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+[2025-08-31 14:10:43] INFO django.server basehttp 15116 6244577280 "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+[2025-08-31 14:10:43] INFO django.server basehttp 15116 6227750912 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+[2025-08-31 14:10:55] INFO django.server basehttp 15116 6177271808 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 17855
+[2025-08-31 14:11:00] INFO django.server basehttp 15116 6194098176 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[2025-08-31 14:11:01] INFO django.server basehttp 15116 6194098176 "GET /admin/ HTTP/1.1" 200 20837
+[2025-08-31 14:11:01] INFO django.server basehttp 15116 6210924544 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[2025-08-31 14:11:01] INFO django.server basehttp 15116 6194098176 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[2025-08-31 14:11:01] INFO django.server basehttp 15116 6227750912 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+[2025-08-31 14:12:07] INFO django.server basehttp 15116 6194098176 "GET /admin/ HTTP/1.1" 200 20838
+[2025-08-31 14:12:08] INFO django.server basehttp 15116 6194098176 "GET /admin/ HTTP/1.1" 200 20837
+[2025-08-31 14:12:18] INFO django.server basehttp 15116 6194098176 "GET /admin/ HTTP/1.1" 200 20838
+[2025-08-31 14:12:18] INFO django.server basehttp 15116 6194098176 "GET /admin/ HTTP/1.1" 200 20837
+[2025-08-31 14:12:18] INFO django.server basehttp 15116 6194098176 "GET /admin/ HTTP/1.1" 200 20837
+[2025-08-31 14:12:19] INFO django.server basehttp 15116 6194098176 "GET /admin/ HTTP/1.1" 200 20837
+[2025-08-31 14:12:19] INFO django.server basehttp 15116 6194098176 "GET /admin/ HTTP/1.1" 200 20837
+[2025-08-31 14:12:19] INFO django.server basehttp 15116 6194098176 "GET /admin/ HTTP/1.1" 200 20837
+[2025-08-31 14:12:21] INFO django.server basehttp 15116 6194098176 "GET /admin/auth/group/ HTTP/1.1" 200 22248
+[2025-08-31 14:12:21] INFO django.server basehttp 15116 6244577280 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[2025-08-31 14:12:21] INFO django.server basehttp 15116 6210924544 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+[2025-08-31 14:12:21] INFO django.server basehttp 15116 6261403648 "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+[2025-08-31 14:12:21] INFO django.server basehttp 15116 6244577280 "GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+[2025-08-31 14:12:21] INFO django.server basehttp 15116 6210924544 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+[2025-08-31 14:12:21] INFO django.server basehttp 15116 6278230016 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+[2025-08-31 14:12:21] INFO django.server basehttp 15116 6261403648 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[2025-08-31 14:12:21] INFO django.server basehttp 15116 6210924544 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[2025-08-31 14:12:21] INFO django.server basehttp 15116 6227750912 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+[2025-08-31 14:12:21] INFO django.server basehttp 15116 6278230016 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+[2025-08-31 14:12:21] INFO django.server basehttp 15116 6278230016 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+[2025-08-31 14:12:21] INFO django.server basehttp 15116 6194098176 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[2025-08-31 14:12:21] INFO django.server basehttp 15116 6194098176 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[2025-08-31 14:12:24] INFO django.server basehttp 15116 6194098176 "GET /admin/ HTTP/1.1" 200 20837
+[2025-08-31 14:12:39] INFO django.server basehttp 15116 6177271808 "GET /admin/ HTTP/1.1" 200 20837
+[2025-08-31 14:12:58] INFO django.server basehttp 15116 6177271808 "POST /api/v1/auth/token/ HTTP/1.1" 200 489
+[2025-08-31 14:12:58] INFO django.server basehttp 15116 6177271808 "GET /__debug__/history_sidebar/?request_id=c485ade064844737858db2f39b7fbdb5 HTTP/1.1" 200 9518
+[2025-08-31 14:13:36] WARNING django.server basehttp 15116 6177271808 "GET /api/v1/buyers/ HTTP/1.1" 401 107
+[2025-08-31 14:13:36] INFO django.server basehttp 15116 6177271808 "GET /__debug__/history_sidebar/?request_id=c9a755ce8c894310a78b4d175f5009cc HTTP/1.1" 200 9501
+[2025-08-31 14:14:22] WARNING django.server basehttp 15116 6177271808 "GET /api/v1/auth/profile/ HTTP/1.1" 401 107
+[2025-08-31 14:14:22] INFO django.server basehttp 15116 6177271808 "GET /__debug__/history_sidebar/?request_id=7ad9ff7ac40a4ff8acdb800097df77f9 HTTP/1.1" 200 9509
+[2025-08-31 14:15:30] WARNING django.server basehttp 15116 6177271808 "GET /api/v1/buyers/ HTTP/1.1" 401 107
+[2025-08-31 14:15:30] INFO django.server basehttp 15116 6177271808 "GET /__debug__/history_sidebar/?request_id=ab315d3b59d84ddc9034eff67abfb2e1 HTTP/1.1" 200 9501
+[2025-08-31 14:15:57] INFO django.server basehttp 15116 6177271808 "GET /api/v1/auth/profile/ HTTP/1.1" 200 424
+[2025-08-31 14:15:58] INFO django.server basehttp 15116 6177271808 "GET /__debug__/history_sidebar/?request_id=030e8274ed2e4901a2c22a749e82577d HTTP/1.1" 200 9505
+[2025-08-31 14:16:05] INFO django.server basehttp 15116 6177271808 "GET /api/v1/buyers/ HTTP/1.1" 200 52
+[2025-08-31 14:16:05] INFO django.server basehttp 15116 6177271808 "GET /__debug__/history_sidebar/?request_id=445f171528a64961a90aca883bdac489 HTTP/1.1" 200 9499
+[2025-08-31 14:17:02] WARNING django.server basehttp 15116 6177271808 "POST /api/v1/buyers/ HTTP/1.1" 400 62
+[2025-08-31 14:17:02] INFO django.server basehttp 15116 6177271808 "GET /__debug__/history_sidebar/?request_id=7591211dea194ba3b89ed9d275e96d27 HTTP/1.1" 200 9497
+[2025-08-31 14:22:48] WARNING django.server basehttp 15116 6177271808 "POST /api/v1/buyers/ HTTP/1.1" 400 62
+[2025-08-31 14:22:48] INFO django.server basehttp 15116 6177271808 "GET /__debug__/history_sidebar/?request_id=30ad93b7bfd94cd69d909d4e03d9d279 HTTP/1.1" 200 9497
+[2025-08-31 15:27:37] WARNING django.server basehttp 15116 6177271808 "POST /api/v1/buyers/ HTTP/1.1" 401 172
+[2025-08-31 15:27:38] INFO django.server basehttp 15116 6177271808 "GET /__debug__/history_sidebar/?request_id=79ec63f73e094061b3a7a5ebcb74e63a HTTP/1.1" 200 9502
+[2025-08-31 15:27:54] INFO django.server basehttp 15116 6177271808 "POST /api/v1/auth/token/ HTTP/1.1" 200 489
+[2025-08-31 15:27:54] INFO django.server basehttp 15116 6177271808 "GET /__debug__/history_sidebar/?request_id=9a2daad2a78b43baa40350d58c3b2bcb HTTP/1.1" 200 9519
+[2025-08-31 15:28:27] WARNING django.server basehttp 15116 6177271808 "POST /api/v1/buyers/ HTTP/1.1" 400 62
+[2025-08-31 15:28:27] INFO django.server basehttp 15116 6177271808 "GET /__debug__/history_sidebar/?request_id=27cd58e58ca94f7496c04f6ecca6b8db HTTP/1.1" 200 9496
+[2025-08-31 15:33:00] WARNING django.server basehttp 81123 6177419264 "POST /api/v1/buyers/ HTTP/1.1" 401 172
+[2025-08-31 15:33:07] INFO django.server basehttp 81123 6177419264 "POST /api/v1/auth/token/ HTTP/1.1" 200 489
+[2025-08-31 15:33:25] WARNING django.server basehttp 81123 6177419264 "POST /api/v1/buyers/ HTTP/1.1" 400 259
+[2025-08-31 15:33:51] ERROR django.server basehttp 81123 6177419264 "POST /api/v1/buyers/ HTTP/1.1" 500 22941
+[2025-08-31 15:34:04] INFO django.server basehttp 81123 6194245632 "POST /api/v1/buyers/ HTTP/1.1" 201 651
+[2025-08-31 15:34:45] INFO django.server basehttp 81123 6194245632 "POST /api/v1/buyers/ HTTP/1.1" 201 650
+[2025-08-31 15:34:56] INFO django.server basehttp 81123 6194245632 "GET /api/v1/buyers/ HTTP/1.1" 200 1354
+[2025-08-31 15:35:07] INFO django.server basehttp 81123 6194245632 "GET /api/v1/buyers/f0df9c29-53b1-470f-91ba-800c3b94b6af/ HTTP/1.1" 200 650
+[2025-08-31 15:36:24] INFO django.server basehttp 81123 6194245632 "GET /api/v1/buyers/ HTTP/1.1" 200 1354
+[2025-08-31 15:36:24] INFO django.server basehttp 81123 6194245632 "GET /__debug__/history_sidebar/?request_id=5ae4aac2a8da401495894f5bed6f3351 HTTP/1.1" 200 9499
+[2025-08-31 15:37:48] WARNING django.server basehttp 81123 6194245632 "POST /api/v1/buyers/ HTTP/1.1" 400 298
+[2025-08-31 15:37:48] INFO django.server basehttp 81123 6194245632 "GET /__debug__/history_sidebar/?request_id=62e7fc16d3a64ce4b3799886aae45e27 HTTP/1.1" 200 9499
+[2025-08-31 15:40:11] INFO django.server basehttp 81123 6194245632 "GET /admin/ HTTP/1.1" 302 0
+[2025-08-31 15:40:11] INFO django.server basehttp 81123 6194245632 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 17682
+[2025-08-31 15:40:22] INFO django.server basehttp 81123 6194245632 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[2025-08-31 15:40:22] INFO django.server basehttp 81123 6194245632 "GET /admin/ HTTP/1.1" 200 23126
+[2025-08-31 15:40:50] INFO django.utils.autoreload autoreload 92074 8244890624 Watching for file changes with StatReloader
+[2025-08-31 15:40:53] INFO django.server basehttp 92074 6172094464 "GET /admin/ HTTP/1.1" 200 28157
+[2025-08-31 15:41:05] INFO django.server basehttp 92074 6172094464 "GET /admin/accounts/city/ HTTP/1.1" 200 28511
+[2025-08-31 15:41:05] INFO django.server basehttp 92074 6172094464 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[2025-08-31 15:41:07] INFO django.server basehttp 92074 6172094464 "GET /admin/ HTTP/1.1" 200 28155
+[2025-08-31 15:41:09] INFO django.server basehttp 92074 6172094464 "GET /admin/accounts/province/ HTTP/1.1" 200 28567
+[2025-08-31 15:41:09] INFO django.server basehttp 92074 6172094464 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[2025-08-31 15:41:11] INFO django.server basehttp 92074 6172094464 "GET /admin/ HTTP/1.1" 200 28155
+[2025-08-31 15:41:12] INFO django.server basehttp 92074 6172094464 "GET /admin/accounts/barangay/ HTTP/1.1" 200 27272
+[2025-08-31 15:41:12] INFO django.server basehttp 92074 6172094464 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[2025-08-31 15:41:14] INFO django.server basehttp 92074 6172094464 "GET /admin/accounts/barangay/add/ HTTP/1.1" 200 29707
+[2025-08-31 15:41:14] INFO django.server basehttp 92074 6205747200 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+[2025-08-31 15:41:14] INFO django.server basehttp 92074 6188920832 "GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+[2025-08-31 15:41:14] INFO django.server basehttp 92074 6188920832 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+[2025-08-31 15:41:14] INFO django.server basehttp 92074 6205747200 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11991
+[2025-08-31 15:41:14] INFO django.server basehttp 92074 6205747200 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[2025-08-31 15:41:14] INFO django.server basehttp 92074 6172094464 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[2025-08-31 15:41:24] INFO django.server basehttp 92074 6172094464 "POST /admin/accounts/barangay/add/ HTTP/1.1" 302 0
+[2025-08-31 15:41:25] INFO django.server basehttp 92074 6172094464 "GET /admin/accounts/barangay/ HTTP/1.1" 200 28774
+[2025-08-31 15:41:25] INFO django.server basehttp 92074 6172094464 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[2025-08-31 15:41:25] INFO django.server basehttp 92074 6172094464 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[2025-08-31 15:44:19] INFO django.utils.autoreload autoreload 92074 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/accounts/serializers.py changed, reloading.
+[2025-08-31 15:44:19] INFO django.utils.autoreload autoreload 94158 8244890624 Watching for file changes with StatReloader
+[2025-08-31 15:45:59] INFO django.server basehttp 94158 6202322944 "GET /api/v1/docs/ HTTP/1.1" 200 18165
+[2025-08-31 15:45:59] INFO django.server basehttp 94158 6202322944 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+[2025-08-31 15:45:59] INFO django.server basehttp 94158 6219149312 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+[2025-08-31 15:45:59] INFO django.server basehttp 94158 6202322944 "GET /api/v1/schema/ HTTP/1.1" 200 101819
+[2025-08-31 15:46:11] INFO django.utils.autoreload autoreload 95400 8244890624 Watching for file changes with StatReloader
+[2025-08-31 15:46:13] INFO django.server basehttp 95400 6206255104 "GET /api/v1/docs/ HTTP/1.1" 200 18165
+[2025-08-31 15:46:14] INFO django.server basehttp 95400 6206255104 "GET /api/v1/schema/ HTTP/1.1" 200 101819
+[2025-08-31 15:48:09] WARNING django.server basehttp 95400 6206255104 "POST /api/v1/buyers/ HTTP/1.1" 400 84
+[2025-08-31 15:48:09] INFO django.server basehttp 95400 6206255104 "GET /__debug__/history_sidebar/?request_id=7b5d8c164c594fc28e14ae987445567e HTTP/1.1" 200 9499
+[2025-08-31 15:48:30] WARNING django.server basehttp 95400 6206255104 "POST /api/v1/buyers/ HTTP/1.1" 400 73
+[2025-08-31 15:48:30] INFO django.server basehttp 95400 6206255104 "GET /__debug__/history_sidebar/?request_id=7c611aea63e64a3cb5db8c23092512e5 HTTP/1.1" 200 9499
+[2025-08-31 15:48:45] INFO django.server basehttp 95400 6206255104 "POST /api/v1/buyers/ HTTP/1.1" 201 1373
+[2025-08-31 15:48:45] INFO django.server basehttp 95400 6206255104 "GET /__debug__/history_sidebar/?request_id=279a660c7b104455a87b1308b0e3984a HTTP/1.1" 200 9503
+[2025-08-31 15:51:02] INFO django.server basehttp 95400 6206255104 "POST /api/v1/auth/register/ HTTP/1.1" 201 1693
+[2025-08-31 15:51:02] INFO django.server basehttp 95400 6206255104 "GET /__debug__/history_sidebar/?request_id=47baf483b36f4020a78ab71875004e98 HTTP/1.1" 200 9512
+[2025-08-31 16:43:31] INFO django.utils.autoreload autoreload 95400 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/accounts/serializers.py changed, reloading.
+[2025-08-31 16:43:32] INFO django.utils.autoreload autoreload 30684 8244890624 Watching for file changes with StatReloader
+[2025-08-31 16:46:42] INFO django.utils.autoreload autoreload 30684 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/accounts/urls.py changed, reloading.
+[2025-08-31 16:46:43] INFO django.utils.autoreload autoreload 32662 8244890624 Watching for file changes with StatReloader
+[2025-08-31 16:47:31] WARNING django.server basehttp 33952 6179024896 "GET /api/v1/sellers/ HTTP/1.1" 401 58
+[2025-08-31 16:47:38] INFO django.server basehttp 33952 6179024896 "POST /api/v1/auth/token/ HTTP/1.1" 200 489
+[2025-08-31 16:47:47] ERROR django.server basehttp 33952 6179024896 "GET /api/v1/sellers/ HTTP/1.1" 500 24911
+[2025-08-31 16:51:20] ERROR django.server basehttp 33952 6195851264 "GET /api/v1/sellers/ HTTP/1.1" 500 24911
+[2025-08-31 16:51:54] ERROR django.server basehttp 33952 6212677632 "GET /api/v1/sellers/ HTTP/1.1" 500 24911
+[2025-08-31 16:54:26] INFO django.server basehttp 40645 6107312128 "GET /api/v1/sellers/ HTTP/1.1" 200 52
+[2025-08-31 16:54:37] WARNING django.server basehttp 40645 6107312128 "GET /api/v1/sellers/profile/ HTTP/1.1" 404 36
+[2025-08-31 16:55:33] INFO django.server basehttp 40645 6107312128 "GET /api/v1/docs/ HTTP/1.1" 200 18163
+[2025-08-31 16:55:33] INFO django.server basehttp 40645 6107312128 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+[2025-08-31 16:55:33] INFO django.server basehttp 40645 6124138496 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+[2025-08-31 16:55:33] ERROR django.server basehttp 40645 6107312128 "GET /api/v1/schema/ HTTP/1.1" 500 213572
+[2025-08-31 16:55:33] ERROR django.server basehttp 40645 6107312128 "GET /api/v1/schema/ HTTP/1.1" 500 213571
+[2025-08-31 16:55:33] INFO django.server basehttp 40645 6107312128 "GET /__debug__/history_sidebar/?request_id=6544d496167649c58c44bfe49dabff81 HTTP/1.1" 200 9507
+[2025-08-31 16:55:40] INFO django.server basehttp 40645 6107312128 "GET /api/v1/docs/ HTTP/1.1" 200 18166
+[2025-08-31 16:55:40] ERROR django.server basehttp 40645 6107312128 "GET /api/v1/schema/ HTTP/1.1" 500 213571
+[2025-08-31 16:55:41] ERROR django.server basehttp 40645 6107312128 "GET /api/v1/schema/ HTTP/1.1" 500 213570
+[2025-08-31 16:55:41] INFO django.server basehttp 40645 6107312128 "GET /__debug__/history_sidebar/?request_id=eeeb53f271664e589d3c9248b631b67a HTTP/1.1" 200 9506
+[2025-08-31 17:01:49] INFO django.server basehttp 47904 6151122944 "GET /api/v1/sellers/ HTTP/1.1" 200 52
+[2025-08-31 17:01:57] INFO django.server basehttp 47904 6151122944 "POST /api/v1/auth/token/ HTTP/1.1" 200 489
+[2025-08-31 17:02:08] ERROR django.server basehttp 47904 6151122944 "POST /api/v1/sellers/ HTTP/1.1" 500 24305
+[2025-08-31 17:02:39] ERROR django.server basehttp 47904 6167949312 "POST /api/v1/sellers/ HTTP/1.1" 500 24305
+[2025-08-31 17:03:44] WARNING django.server basehttp 53208 6115667968 "POST /api/v1/sellers/ HTTP/1.1" 400 113
+[2025-08-31 17:03:58] WARNING django.server basehttp 53208 6115667968 "POST /api/v1/sellers/ HTTP/1.1" 400 47
+[2025-08-31 17:04:21] WARNING django.server basehttp 53208 6115667968 "POST /api/v1/sellers/ HTTP/1.1" 400 47
+[2025-08-31 17:04:58] WARNING django.server basehttp 53208 6115667968 "POST /api/v1/sellers/ HTTP/1.1" 400 47
+[2025-08-31 17:05:29] WARNING django.server basehttp 53208 6115667968 "POST /api/v1/sellers/ HTTP/1.1" 400 47
+[2025-08-31 17:06:35] INFO django.server basehttp 60680 6111064064 "POST /api/v1/sellers/ HTTP/1.1" 201 2129
+[2025-08-31 17:06:47] INFO django.server basehttp 60680 6111064064 "GET /api/v1/sellers/ HTTP/1.1" 200 2181
+[2025-08-31 17:06:58] INFO django.server basehttp 60680 6111064064 "GET /api/v1/sellers/c0197d9c-3014-4a64-8e0f-ab9e86073483/ HTTP/1.1" 200 2129
+[2025-08-31 17:08:01] INFO django.server basehttp 60680 6111064064 "GET /api/v1/docs/ HTTP/1.1" 200 18167
+[2025-08-31 17:08:01] INFO django.server basehttp 60680 6111064064 "GET /api/v1/schema/ HTTP/1.1" 200 165463
+[2025-08-31 17:08:20] WARNING django.server basehttp 60680 6111064064 "GET /api/v1/sellers/ HTTP/1.1" 401 58
+[2025-08-31 17:08:20] INFO django.server basehttp 60680 6111064064 "GET /__debug__/history_sidebar/?request_id=1d11de9a6ad84a4a8830fd8d1efaa92a HTTP/1.1" 200 9501
+[2025-08-31 17:08:39] INFO django.server basehttp 60680 6111064064 "POST /api/v1/auth/token/ HTTP/1.1" 200 489
+[2025-08-31 17:08:39] INFO django.server basehttp 60680 6111064064 "GET /__debug__/history_sidebar/?request_id=215ecdd8229e4c5d9027d1695ee2c1bb HTTP/1.1" 200 9518
+[2025-08-31 17:09:04] INFO django.server basehttp 60680 6111064064 "GET /api/v1/sellers/ HTTP/1.1" 200 2181
+[2025-08-31 17:09:04] INFO django.server basehttp 60680 6111064064 "GET /__debug__/history_sidebar/?request_id=3ea6e69cec034988bb8fbc0c331d6053 HTTP/1.1" 200 9501
+[2025-08-31 17:25:06] WARNING django.server basehttp 74719 6185562112 "GET /api/v1/countries/ HTTP/1.1" 401 58
+[2025-08-31 17:25:14] INFO django.server basehttp 74719 6185562112 "POST /api/v1/auth/token/ HTTP/1.1" 200 489
+[2025-08-31 17:25:23] INFO django.server basehttp 74719 6185562112 "GET /api/v1/countries/ HTTP/1.1" 200 189
+[2025-08-31 17:25:36] INFO django.server basehttp 74719 6185562112 "GET /api/v1/regions/ HTTP/1.1" 200 181
+[2025-08-31 17:25:54] INFO django.server basehttp 74719 6185562112 "GET /api/v1/provinces/ HTTP/1.1" 200 189
+[2025-08-31 17:26:04] INFO django.server basehttp 74719 6185562112 "GET /api/v1/cities/ HTTP/1.1" 200 185
+[2025-08-31 17:26:45] INFO django.server basehttp 74719 6185562112 "GET /api/v1/barangays/ HTTP/1.1" 200 186
+[2025-08-31 17:28:04] INFO django.server basehttp 74719 6185562112 "GET /api/v1/countries/1/regions/ HTTP/1.1" 200 167
+[2025-08-31 17:28:15] INFO django.server basehttp 74719 6185562112 "POST /api/v1/countries/ HTTP/1.1" 201 139
+[2025-08-31 17:28:29] INFO django.server basehttp 74719 6185562112 "GET /api/v1/countries/?name=Philippines HTTP/1.1" 200 189
+[2025-08-31 17:29:19] INFO django.server basehttp 74719 6185562112 "GET /api/v1/docs/ HTTP/1.1" 200 18167
+[2025-08-31 17:29:19] INFO django.server basehttp 74719 6185562112 "GET /api/v1/schema/ HTTP/1.1" 200 280406
+[2025-08-31 17:31:17] WARNING django.server basehttp 74719 6185562112 "GET /api/v1/countries/ HTTP/1.1" 401 58
+[2025-08-31 17:31:17] INFO django.server basehttp 74719 6185562112 "GET /__debug__/history_sidebar/?request_id=5e0926710f7f423db656e26d656eaccf HTTP/1.1" 200 9504
+[2025-08-31 17:31:40] INFO django.server basehttp 74719 6185562112 "POST /api/v1/auth/token/ HTTP/1.1" 200 489
+[2025-08-31 17:31:41] INFO django.server basehttp 74719 6185562112 "GET /__debug__/history_sidebar/?request_id=309efa181cd747d49c73b188c68ccc6d HTTP/1.1" 200 9518
+[2025-08-31 17:32:05] INFO django.server basehttp 74719 6185562112 "GET /api/v1/countries/ HTTP/1.1" 200 329
+[2025-08-31 17:32:05] INFO django.server basehttp 74719 6185562112 "GET /__debug__/history_sidebar/?request_id=398ac0838dfd411091e2392c75eeacee HTTP/1.1" 200 9504
+[2025-08-31 17:36:24] INFO django.utils.autoreload autoreload 85770 8244890624 Watching for file changes with StatReloader
+[2025-08-31 17:36:30] INFO django.server basehttp 85770 6190395392 "GET /api/v1/docs/ HTTP/1.1" 200 18167
+[2025-08-31 17:36:30] INFO django.server basehttp 85770 6190395392 "GET /api/v1/schema/ HTTP/1.1" 200 281921
+[2025-08-31 17:41:28] WARNING django.server basehttp 85770 6190395392 "POST /api/v1/regions/ HTTP/1.1" 401 58
+[2025-08-31 17:41:28] INFO django.server basehttp 85770 6190395392 "GET /__debug__/history_sidebar/?request_id=b69b1c1d1b864090a6df65e4904c026c HTTP/1.1" 200 9501
+[2025-08-31 17:42:21] INFO django.server basehttp 85770 6190395392 "POST /api/v1/auth/token/ HTTP/1.1" 200 489
+[2025-08-31 17:42:21] INFO django.server basehttp 85770 6190395392 "GET /__debug__/history_sidebar/?request_id=b0500d7637454dec9faa3afe7a11fbcc HTTP/1.1" 200 9519
+[2025-08-31 17:42:43] INFO django.server basehttp 85770 6190395392 "POST /api/v1/regions/ HTTP/1.1" 201 153
+[2025-08-31 17:42:43] INFO django.server basehttp 85770 6190395392 "GET /__debug__/history_sidebar/?request_id=e0dfe623d04f44c091df449ace3641cd HTTP/1.1" 200 9501
+[2025-08-31 17:43:41] INFO django.utils.autoreload autoreload 85770 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/accounts/models.py changed, reloading.
+[2025-08-31 17:43:42] INFO django.utils.autoreload autoreload 90314 8244890624 Watching for file changes with StatReloader
+[2025-08-31 17:45:00] INFO django.utils.autoreload autoreload 91464 8244890624 Watching for file changes with StatReloader
+[2025-08-31 17:45:05] INFO django.server basehttp 91464 6201257984 "GET /api/v1/docs/ HTTP/1.1" 200 18166
+[2025-08-31 17:45:05] INFO django.server basehttp 91464 6201257984 "GET /api/v1/schema/ HTTP/1.1" 200 284117
+[2025-08-31 17:45:25] INFO django.server basehttp 91464 6200684544 "POST /api/v1/auth/token/ HTTP/1.1" 200 489
+[2025-08-31 17:45:26] INFO django.server basehttp 91464 6200684544 "GET /__debug__/history_sidebar/?request_id=df8ebeeee97944e6a9a4c7d7b04d9d09 HTTP/1.1" 200 9518
+[2025-08-31 17:46:08] INFO django.server basehttp 91464 6200684544 "GET /api/v1/regions/ HTTP/1.1" 200 388
+[2025-08-31 17:46:08] INFO django.server basehttp 91464 6200684544 "GET /__debug__/history_sidebar/?request_id=d7a9ce8af2804e78aa962884895711a7 HTTP/1.1" 200 9501
+[2025-08-31 17:47:08] INFO django.server basehttp 91464 6200684544 "PATCH /api/v1/regions/2/ HTTP/1.1" 200 178
+[2025-08-31 17:47:08] INFO django.server basehttp 91464 6200684544 "GET /__debug__/history_sidebar/?request_id=0911df43a2f54d2a87a6186d6f6bcf75 HTTP/1.1" 200 9503
+[2025-08-31 17:47:39] INFO django.server basehttp 91464 6200684544 "GET /api/v1/regions/?search=NC HTTP/1.1" 200 396
+[2025-08-31 17:47:39] INFO django.server basehttp 91464 6200684544 "GET /__debug__/history_sidebar/?request_id=170a200c10174747939df8ed5ee903ee HTTP/1.1" 200 9511
+[2025-08-31 17:47:59] INFO django.server basehttp 91464 6200684544 "GET /api/v1/regions/?name=NC HTTP/1.1" 200 217
+[2025-08-31 17:47:59] INFO django.server basehttp 91464 6200684544 "GET /__debug__/history_sidebar/?request_id=98e9a606d4864bf0af5c7d0f33995286 HTTP/1.1" 200 9509
+[2025-08-31 17:48:17] INFO django.server basehttp 91464 6200684544 "GET /api/v1/regions/ HTTP/1.1" 200 396
+[2025-08-31 17:48:17] INFO django.server basehttp 91464 6200684544 "GET /__debug__/history_sidebar/?request_id=d6dff64ce40d4e3fb58d7edd26e8c54d HTTP/1.1" 200 9501
+[2025-08-31 17:48:48] INFO django.server basehttp 91464 6200684544 "GET /api/v1/redoc/ HTTP/1.1" 200 14244
+[2025-08-31 17:48:48] INFO django.server basehttp 91464 6200684544 "GET /api/v1/schema/ HTTP/1.1" 200 129690
+[2025-08-31 17:51:41] INFO django.server basehttp 91464 6200684544 "GET /api/v1/docs/ HTTP/1.1" 200 18166
+[2025-08-31 17:51:41] INFO django.server basehttp 91464 6200684544 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+[2025-08-31 17:51:41] INFO django.server basehttp 91464 6200684544 "GET /api/v1/schema/ HTTP/1.1" 200 284117
+[2025-08-31 17:51:41] INFO django.server basehttp 91464 6200684544 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+[2025-08-31 18:20:47] INFO django.utils.autoreload autoreload 91464 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/accounts/views/address_lookup_views.py changed, reloading.
+[2025-08-31 18:20:48] INFO django.utils.autoreload autoreload 13818 8244890624 Watching for file changes with StatReloader
+[2025-08-31 18:21:03] INFO django.utils.autoreload autoreload 13818 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/accounts/views/address_lookup_views.py changed, reloading.
+[2025-08-31 18:21:04] INFO django.utils.autoreload autoreload 14043 8244890624 Watching for file changes with StatReloader
+[2025-08-31 18:21:15] INFO django.utils.autoreload autoreload 14043 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/accounts/views/address_lookup_views.py changed, reloading.
+[2025-08-31 18:21:16] INFO django.utils.autoreload autoreload 14156 8244890624 Watching for file changes with StatReloader
+[2025-08-31 18:21:27] INFO django.utils.autoreload autoreload 14156 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/accounts/views/address_lookup_views.py changed, reloading.
+[2025-08-31 18:21:28] INFO django.utils.autoreload autoreload 14270 8244890624 Watching for file changes with StatReloader
+[2025-08-31 18:21:40] INFO django.utils.autoreload autoreload 14270 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/accounts/views/address_lookup_views.py changed, reloading.
+[2025-08-31 18:21:41] INFO django.utils.autoreload autoreload 14382 8244890624 Watching for file changes with StatReloader
+[2025-08-31 18:21:50] INFO django.utils.autoreload autoreload 14382 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/accounts/views/address_lookup_views.py changed, reloading.
+[2025-08-31 18:21:51] INFO django.utils.autoreload autoreload 14497 8244890624 Watching for file changes with StatReloader
+[2025-08-31 18:21:59] INFO django.utils.autoreload autoreload 14497 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/accounts/views/address_lookup_views.py changed, reloading.
+[2025-08-31 18:21:59] INFO django.utils.autoreload autoreload 14608 8244890624 Watching for file changes with StatReloader
+[2025-08-31 18:22:09] INFO django.utils.autoreload autoreload 14608 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/accounts/views/address_lookup_views.py changed, reloading.
+[2025-08-31 18:22:09] INFO django.utils.autoreload autoreload 14718 8244890624 Watching for file changes with StatReloader
+[2025-08-31 18:22:18] INFO django.utils.autoreload autoreload 14718 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/accounts/views/address_lookup_views.py changed, reloading.
+[2025-08-31 18:22:18] INFO django.utils.autoreload autoreload 14830 8244890624 Watching for file changes with StatReloader
+[2025-08-31 18:22:27] INFO django.utils.autoreload autoreload 14830 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/accounts/views/address_lookup_views.py changed, reloading.
+[2025-08-31 18:22:27] INFO django.utils.autoreload autoreload 14835 8244890624 Watching for file changes with StatReloader
+[2025-08-31 18:22:36] INFO django.utils.autoreload autoreload 14835 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/accounts/views/address_lookup_views.py changed, reloading.
+[2025-08-31 18:22:37] INFO django.utils.autoreload autoreload 14946 8244890624 Watching for file changes with StatReloader
+[2025-08-31 18:22:46] INFO django.utils.autoreload autoreload 14946 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/accounts/views/address_lookup_views.py changed, reloading.
+[2025-08-31 18:22:47] INFO django.utils.autoreload autoreload 15065 8244890624 Watching for file changes with StatReloader
+[2025-08-31 18:22:56] INFO django.utils.autoreload autoreload 15065 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/accounts/views/address_lookup_views.py changed, reloading.
+[2025-08-31 18:22:57] INFO django.utils.autoreload autoreload 15192 8244890624 Watching for file changes with StatReloader
+[2025-08-31 18:23:04] INFO django.utils.autoreload autoreload 15192 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/accounts/views/address_lookup_views.py changed, reloading.
+[2025-08-31 18:23:04] INFO django.utils.autoreload autoreload 15306 8244890624 Watching for file changes with StatReloader
+[2025-08-31 18:24:25] INFO django.server basehttp 17277 6184857600 "POST /api/v1/auth/token/ HTTP/1.1" 200 489
+[2025-08-31 18:24:44] INFO django.server basehttp 17277 6184857600 "POST /api/v1/countries/ HTTP/1.1" 201 151
+[2025-08-31 18:24:58] INFO django.server basehttp 17277 6184857600 "GET /api/v1/countries/?name=Canada HTTP/1.1" 200 203
+[2025-08-31 18:25:09] INFO django.server basehttp 17277 6184857600 "GET /api/v1/countries/1/regions/ HTTP/1.1" 200 382
+[2025-08-31 18:35:19] INFO django.server basehttp 17277 6184857600 "GET /api/v1/docs/ HTTP/1.1" 200 18167
+[2025-08-31 18:35:19] INFO django.server basehttp 17277 6184857600 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+[2025-08-31 18:35:19] INFO django.server basehttp 17277 6201683968 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+[2025-08-31 18:35:19] INFO django.server basehttp 17277 6184857600 "GET /api/v1/schema/ HTTP/1.1" 200 284117
+[2025-08-31 18:35:37] INFO django.server basehttp 17277 6184857600 "POST /api/v1/auth/token/ HTTP/1.1" 200 489
+[2025-08-31 18:35:37] INFO django.server basehttp 17277 6184857600 "GET /__debug__/history_sidebar/?request_id=7b5fa47035424ee19fe80d724410b605 HTTP/1.1" 200 9519
+[2025-08-31 18:36:06] INFO django.server basehttp 17277 6184857600 "GET /api/v1/countries/ HTTP/1.1" 200 519
+[2025-08-31 18:36:06] INFO django.server basehttp 17277 6184857600 "GET /__debug__/history_sidebar/?request_id=609a30bd18d34d9f8843d09d8d84cfc6 HTTP/1.1" 200 9504
+[2025-08-31 18:36:40] INFO django.server basehttp 17277 6184857600 "GET /api/v1/provinces/ HTTP/1.1" 200 225
+[2025-08-31 18:36:40] INFO django.server basehttp 17277 6184857600 "GET /__debug__/history_sidebar/?request_id=4ef9185d4d654e578d260551442bd538 HTTP/1.1" 200 9505
+[2025-08-31 18:38:52] INFO django.server basehttp 17277 6184857600 "GET /api/v1/regions/ HTTP/1.1" 200 396
+[2025-08-31 18:38:53] INFO django.server basehttp 17277 6184857600 "GET /__debug__/history_sidebar/?request_id=655c2816bbb0438d8852f2b66335ad12 HTTP/1.1" 200 9501
+[2025-08-31 18:41:08] INFO django.server basehttp 17277 6184857600 "POST /api/v1/provinces/ HTTP/1.1" 201 170
+[2025-08-31 18:41:08] INFO django.server basehttp 17277 6184857600 "GET /__debug__/history_sidebar/?request_id=a0856edb3bcc422cbe85468964d50bcc HTTP/1.1" 200 9505
+[2025-08-31 18:45:08] WARNING django.server basehttp 17277 6184857600 "POST /api/v1/buyers/ HTTP/1.1" 400 355
+[2025-08-31 18:45:08] INFO django.server basehttp 17277 6184857600 "GET /__debug__/history_sidebar/?request_id=77065d2ead5a4ff6ac1fd260bb9aee73 HTTP/1.1" 200 9499
+[2025-08-31 19:27:17] INFO django.server basehttp 81350 6146781184 "POST /api/v1/auth/token/ HTTP/1.1" 200 489
+[2025-08-31 19:27:28] INFO django.server basehttp 81350 6146781184 "GET /api/v1/buyer-shipping-addresses/ HTTP/1.1" 200 52
+[2025-08-31 19:27:43] INFO django.server basehttp 81350 6146781184 "GET /api/v1/buyer-payment-methods/ HTTP/1.1" 200 52
+[2025-08-31 19:27:57] WARNING django.server basehttp 81350 6146781184 "GET /api/v1/buyer-shipping-addresses/my-addresses/ HTTP/1.1" 404 27
+[2025-08-31 19:28:07] WARNING django.server basehttp 81350 6146781184 "GET /api/v1/buyer-payment-methods/my-payment-methods/ HTTP/1.1" 404 27
+[2025-08-31 19:28:22] WARNING django.server basehttp 81350 6146781184 "GET /api/v1/docs/ HTTP/1.1" 406 18
+[2025-08-31 19:28:38] INFO django.server basehttp 81350 6163607552 "GET /api/v1/schema/ HTTP/1.1" 200 354954
+[2025-08-31 19:29:41] INFO django.server basehttp 81350 6146781184 "GET /api/v1/docs/ HTTP/1.1" 200 18167
+[2025-08-31 19:29:41] INFO django.server basehttp 81350 6146781184 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+[2025-08-31 19:29:41] INFO django.server basehttp 81350 6163607552 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+[2025-08-31 19:29:41] INFO django.server basehttp 81350 6146781184 "GET /api/v1/schema/ HTTP/1.1" 200 354954
+[2025-09-04 15:25:35] INFO django.utils.autoreload autoreload 81356 8244890624 Watching for file changes with StatReloader
+[2025-09-04 15:25:44] INFO django.server basehttp 81356 6125039616 "GET /api/v1/docs/ HTTP/1.1" 200 18167
+[2025-09-04 15:25:44] INFO django.server basehttp 81356 6141865984 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+[2025-09-04 15:25:44] INFO django.server basehttp 81356 6125039616 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+[2025-09-04 15:25:44] INFO django.server basehttp 81356 6141865984 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+[2025-09-04 15:25:44] INFO django.server basehttp 81356 6141865984 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+[2025-09-04 15:25:44] INFO django.server basehttp 81356 6125039616 "GET /api/v1/schema/ HTTP/1.1" 200 354954
+[2025-09-04 15:26:44] WARNING django.server basehttp 81356 6125039616 "POST /api/v1/buyer-shipping-addresses/ HTTP/1.1" 401 58
+[2025-09-04 15:26:44] INFO django.server basehttp 81356 6125039616 "GET /__debug__/history_sidebar/?request_id=db2a785c977d48f89a2944282f9642c9 HTTP/1.1" 200 9533

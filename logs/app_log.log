@@ -1,0 +1,710 @@
+[2025-08-30 21:41:43] INFO accounts.models models <module>:281 Buyer Models
+[2025-08-30 21:41:44] INFO accounts.models models <module>:281 Buyer Models
+[2025-08-30 22:21:27] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 22:21:27] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 22:21:27] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 22:21:27] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 22:21:27] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 22:21:27] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 22:21:27] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 22:21:40] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 22:21:40] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 22:21:40] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 22:21:40] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 22:21:40] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 22:21:40] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 22:21:40] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 22:22:35] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 22:22:35] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 22:22:35] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 22:22:35] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 22:22:35] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 22:22:35] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 22:22:35] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 22:22:42] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 22:22:42] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 22:22:42] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 22:22:42] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 22:22:42] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 22:22:42] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 22:22:42] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 22:23:47] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 22:23:47] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 22:23:47] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 22:23:47] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 22:23:47] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 22:23:47] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 22:23:47] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 22:23:55] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 22:23:55] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 22:23:55] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 22:23:55] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 22:23:55] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 22:23:55] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 22:23:55] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 22:24:01] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 22:24:01] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 22:24:01] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 22:24:01] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 22:24:01] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 22:24:01] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 22:24:01] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 22:24:08] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 22:24:08] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 22:24:08] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 22:24:08] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 22:24:08] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 22:24:08] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 22:24:08] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 22:24:14] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 22:24:14] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 22:24:14] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 22:24:14] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 22:24:14] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 22:24:14] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 22:24:14] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 22:24:26] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 22:24:26] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 22:24:26] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 22:24:26] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 22:24:26] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 22:24:26] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 22:24:26] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 22:24:48] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 22:24:48] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 22:24:48] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 22:24:48] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 22:24:48] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 22:24:48] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 22:24:48] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 22:25:21] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 22:25:21] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 22:25:21] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 22:25:21] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 22:25:21] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 22:25:21] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 22:25:21] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 22:25:21] INFO __main__ test_logging test_logging:36 This is an INFO message - should appear in console and app_log.log
+[2025-08-30 22:25:21] WARNING __main__ test_logging test_logging:37 This is a WARNING message - should appear in console and app_log.log
+[2025-08-30 22:25:21] ERROR __main__ test_logging test_logging:38 This is an ERROR message - should appear in console, app_log.log, and error.log
+[2025-08-30 22:25:21] INFO api test_logging test_logging:41 API logger test message
+[2025-08-30 22:25:21] WARNING api test_logging test_logging:42 API warning message
+[2025-08-30 22:25:21] INFO accounts test_logging test_logging:45 Accounts logger test message
+[2025-08-30 22:25:21] ERROR accounts test_logging test_logging:46 Accounts error message
+[2025-08-30 22:47:45] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 22:47:45] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 22:47:45] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 22:47:45] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 22:47:45] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 22:47:45] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 22:47:45] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 22:47:52] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 22:47:52] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 22:47:52] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 22:47:52] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 22:47:52] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 22:47:52] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 22:47:52] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 22:48:12] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 22:48:12] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 22:48:12] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 22:48:12] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 22:48:12] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 22:48:12] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 22:48:12] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 22:48:24] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 22:48:24] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 22:48:24] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 22:48:24] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 22:48:24] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 22:48:24] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 22:48:24] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 22:48:47] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 22:48:47] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 22:48:47] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 22:48:47] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 22:48:47] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 22:48:47] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 22:48:47] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 22:52:25] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 22:52:25] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 22:52:25] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 22:52:25] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 22:52:25] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 22:52:25] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 22:52:25] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 22:52:33] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 22:52:33] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 22:52:33] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 22:52:33] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 22:52:33] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 22:52:33] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 22:52:33] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 22:57:09] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 22:57:09] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 22:57:09] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 22:57:09] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 22:57:09] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 22:57:09] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 22:57:09] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 22:59:51] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 22:59:51] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 22:59:51] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 22:59:51] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 22:59:51] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 22:59:51] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 22:59:51] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 22:59:59] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 22:59:59] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 22:59:59] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 22:59:59] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 22:59:59] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 22:59:59] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 22:59:59] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 23:00:20] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 23:00:20] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 23:00:20] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 23:00:20] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 23:00:20] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 23:00:20] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 23:00:20] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 23:00:30] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 23:00:30] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 23:00:30] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 23:00:30] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 23:00:30] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 23:00:30] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 23:00:30] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 23:00:53] ERROR authentication.views views register_user:99 User registration error: relation "token_blacklist_outstandingtoken" does not exist
+LINE 1: INSERT INTO "token_blacklist_outstandingtoken" ("user_id", "...
+                    ^
+
+[2025-08-30 23:12:28] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 23:12:28] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 23:12:28] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 23:12:28] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 23:12:28] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 23:12:28] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 23:12:28] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 23:12:34] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 23:12:34] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 23:12:34] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 23:12:34] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 23:12:34] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 23:12:34] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 23:12:34] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 23:12:41] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 23:12:41] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 23:12:41] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 23:12:41] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 23:12:41] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 23:12:41] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 23:12:41] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 23:14:10] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 23:14:10] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 23:14:10] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 23:14:10] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 23:14:10] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 23:14:10] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 23:14:10] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 23:14:33] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-30 23:14:33] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-30 23:14:33] INFO accounts.models models <module>:207 Seller Models
+[2025-08-30 23:14:33] INFO accounts.models models <module>:233 Buyer Models
+[2025-08-30 23:14:33] INFO accounts.models models <module>:256 Shop Models
+[2025-08-30 23:14:33] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-30 23:14:33] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-30 23:14:39] WARNING authentication.views views register_user:95 User registration failed: {'mobile_no': [ErrorDetail(string='User with this mobile no already exists.', code='unique')]}
+[2025-08-30 23:14:49] INFO authentication.views views register_user:82 New user registered: test456 - Test2 User2
+[2025-08-30 23:14:58] INFO authentication.views views login_user:169 User logged in: test456 - Test2 User2
+[2025-08-30 23:15:16] WARNING accounts.views.buyer_views buyer_views profile:228 Profile not found for user: test456
+[2025-08-31 14:09:32] WARNING authentication.views views login_user:188 Failed login attempt for mobile: 09088648123
+[2025-08-31 14:15:57] INFO authentication.views views get_user_profile:286 Profile retrieved for user: 09088648123
+[2025-08-31 14:16:05] INFO accounts.views.buyer_views buyer_views get_queryset:179 Buyer queryset filtered: 0 results
+[2025-08-31 15:32:33] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 15:32:33] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 15:32:33] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 15:32:33] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 15:32:33] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 15:32:33] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 15:32:33] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 15:32:50] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 15:32:50] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 15:32:50] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 15:32:50] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 15:32:50] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 15:32:50] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 15:32:50] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 15:34:04] INFO accounts.views.buyer_views buyer_views perform_create:187 New buyer created: fec1b593-2d29-4504-9398-095c9ec6fa6f - John Doe
+[2025-08-31 15:34:13] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 15:34:13] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 15:34:13] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 15:34:13] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 15:34:13] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 15:34:13] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 15:34:13] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 15:34:20] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 15:34:20] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 15:34:20] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 15:34:20] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 15:34:20] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 15:34:20] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 15:34:20] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 15:34:31] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 15:34:31] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 15:34:31] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 15:34:31] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 15:34:31] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 15:34:31] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 15:34:31] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 15:34:45] INFO accounts.views.buyer_views buyer_views perform_create:187 New buyer created: f0df9c29-53b1-470f-91ba-800c3b94b6af - Jane Smith
+[2025-08-31 15:34:56] INFO accounts.views.buyer_views buyer_views get_queryset:179 Buyer queryset filtered: 2 results
+[2025-08-31 15:35:07] INFO accounts.views.buyer_views buyer_views get_queryset:179 Buyer queryset filtered: 2 results
+[2025-08-31 15:36:24] INFO accounts.views.buyer_views buyer_views get_queryset:179 Buyer queryset filtered: 2 results
+[2025-08-31 15:40:50] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 15:40:50] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 15:40:50] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 15:40:50] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 15:40:50] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 15:40:50] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 15:40:50] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 15:40:50] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 15:40:50] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 15:40:50] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 15:40:50] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 15:40:50] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 15:40:50] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 15:40:50] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 15:44:19] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 15:44:19] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 15:44:19] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 15:44:19] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 15:44:19] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 15:44:19] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 15:44:19] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 15:46:11] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 15:46:11] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 15:46:11] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 15:46:11] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 15:46:11] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 15:46:11] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 15:46:11] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 15:46:11] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 15:46:11] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 15:46:11] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 15:46:11] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 15:46:11] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 15:46:11] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 15:46:11] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 15:48:45] INFO accounts.views.buyer_views buyer_views perform_create:187 New buyer created: 52dda51d-b45c-4ec8-9709-c1cedd13452c - Sofia Lorilla
+[2025-08-31 15:51:02] INFO authentication.views views register_user:82 New user registered: 09090000001 - Admin Admin
+[2025-08-31 16:43:32] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 16:43:32] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 16:43:32] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 16:43:32] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 16:43:32] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 16:43:32] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 16:43:32] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 16:46:43] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 16:46:43] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 16:46:43] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 16:46:43] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 16:46:43] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 16:46:43] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 16:46:43] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 16:47:05] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 16:47:05] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 16:47:05] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 16:47:05] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 16:47:05] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 16:47:05] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 16:47:05] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 16:47:13] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 16:47:13] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 16:47:13] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 16:47:13] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 16:47:13] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 16:47:13] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 16:47:13] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 16:47:25] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 16:47:25] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 16:47:25] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 16:47:25] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 16:47:25] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 16:47:25] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 16:47:25] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 16:47:47] INFO accounts.views.seller_views seller_views get_queryset:225 Seller queryset filtered: 0 results
+[2025-08-31 16:51:20] INFO accounts.views.seller_views seller_views get_queryset:225 Seller queryset filtered: 0 results
+[2025-08-31 16:51:44] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 16:51:44] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 16:51:44] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 16:51:44] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 16:51:44] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 16:51:44] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 16:51:44] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 16:51:54] INFO accounts.views.seller_views seller_views get_queryset:225 Seller queryset filtered: 0 results
+[2025-08-31 16:54:17] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 16:54:17] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 16:54:17] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 16:54:17] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 16:54:17] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 16:54:17] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 16:54:17] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 16:54:26] INFO accounts.views.seller_views seller_views get_queryset:225 Seller queryset filtered: 0 results
+[2025-08-31 16:54:37] WARNING accounts.views.seller_views seller_views profile:274 Profile not found for user: test456
+[2025-08-31 16:59:29] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 16:59:29] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 16:59:29] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 16:59:29] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 16:59:29] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 16:59:29] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 16:59:29] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 16:59:49] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 16:59:49] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 16:59:49] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 16:59:49] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 16:59:49] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 16:59:49] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 16:59:49] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 17:00:16] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 17:00:16] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 17:00:16] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 17:00:16] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 17:00:16] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 17:00:16] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 17:00:16] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 17:00:53] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 17:00:53] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 17:00:53] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 17:00:53] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 17:00:53] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 17:00:53] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 17:00:53] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 17:01:01] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 17:01:01] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 17:01:01] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 17:01:01] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 17:01:01] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 17:01:01] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 17:01:01] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 17:01:41] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 17:01:41] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 17:01:41] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 17:01:41] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 17:01:41] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 17:01:41] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 17:01:41] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 17:01:49] INFO accounts.views.seller_views seller_views get_queryset:225 Seller queryset filtered: 0 results
+[2025-08-31 17:02:55] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 17:02:55] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 17:02:55] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 17:02:55] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 17:02:55] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 17:02:55] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 17:02:55] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 17:03:31] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 17:03:31] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 17:03:31] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 17:03:31] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 17:03:31] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 17:03:31] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 17:03:31] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 17:05:45] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 17:05:45] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 17:05:45] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 17:05:45] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 17:05:45] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 17:05:45] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 17:05:45] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 17:06:22] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 17:06:22] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 17:06:22] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 17:06:22] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 17:06:22] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 17:06:22] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 17:06:22] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 17:06:35] INFO accounts.views.seller_views seller_views perform_create:233 New seller created: c0197d9c-3014-4a64-8e0f-ab9e86073483 - Jane Smith
+[2025-08-31 17:06:47] INFO accounts.views.seller_views seller_views get_queryset:225 Seller queryset filtered: 1 results
+[2025-08-31 17:06:58] INFO accounts.views.seller_views seller_views get_queryset:225 Seller queryset filtered: 1 results
+[2025-08-31 17:09:04] INFO accounts.views.seller_views seller_views get_queryset:225 Seller queryset filtered: 1 results
+[2025-08-31 17:21:50] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 17:21:50] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 17:21:50] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 17:21:50] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 17:21:50] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 17:21:50] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 17:21:50] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 17:21:57] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 17:21:57] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 17:21:57] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 17:21:57] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 17:21:57] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 17:21:57] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 17:21:57] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 17:24:53] INFO accounts.models models <module>:109 Custom User Manager
+[2025-08-31 17:24:53] INFO accounts.models models <module>:141 Custom User Models
+[2025-08-31 17:24:53] INFO accounts.models models <module>:207 accounts.models Seller Models
+[2025-08-31 17:24:53] INFO accounts.models models <module>:233 accounts.models Buyer Models
+[2025-08-31 17:24:53] INFO accounts.models models <module>:256 accounts.models Shop Models
+[2025-08-31 17:24:53] INFO accounts.models models <module>:348 Buyer Shipping Address Models
+[2025-08-31 17:24:53] INFO accounts.models models <module>:388 Buyer Payment Method Models
+[2025-08-31 17:25:23] INFO accounts.views.address_lookup_views address_lookup_views get_queryset:157 Country queryset filtered: 1 results
+[2025-08-31 17:25:36] INFO accounts.views.address_lookup_views address_lookup_views get_queryset:357 Region queryset filtered: 1 results
+[2025-08-31 17:25:54] INFO accounts.views.address_lookup_views address_lookup_views get_queryset:561 Province queryset filtered: 1 results
+[2025-08-31 17:26:04] INFO accounts.views.address_lookup_views address_lookup_views get_queryset:769 City queryset filtered: 1 results
+[2025-08-31 17:26:45] INFO accounts.views.address_lookup_views address_lookup_views get_queryset:981 Barangay queryset filtered: 1 results
+[2025-08-31 17:28:04] INFO accounts.views.address_lookup_views address_lookup_views get_queryset:157 Country queryset filtered: 1 results
+[2025-08-31 17:28:04] INFO accounts.views.address_lookup_views address_lookup_views regions:205 Regions retrieved for country: Philippines
+[2025-08-31 17:28:15] INFO accounts.views.address_lookup_views address_lookup_views perform_create:165 New country created: 2 - United States
+[2025-08-31 17:28:29] INFO accounts.views.address_lookup_views address_lookup_views get_queryset:157 Country queryset filtered: 1 results
+[2025-08-31 17:32:05] INFO accounts.views.address_lookup_views address_lookup_views get_queryset:157 Country queryset filtered: 2 results
+[2025-08-31 17:36:04] INFO accounts.models models <module>:114 Custom User Manager
+[2025-08-31 17:36:04] INFO accounts.models models <module>:146 Custom User Models
+[2025-08-31 17:36:04] INFO accounts.models models <module>:212 accounts.models Seller Models
+[2025-08-31 17:36:04] INFO accounts.models models <module>:238 accounts.models Buyer Models
+[2025-08-31 17:36:04] INFO accounts.models models <module>:261 accounts.models Shop Models
+[2025-08-31 17:36:04] INFO accounts.models models <module>:353 Buyer Shipping Address Models
+[2025-08-31 17:36:04] INFO accounts.models models <module>:393 Buyer Payment Method Models
+[2025-08-31 17:36:09] INFO accounts.models models <module>:114 Custom User Manager
+[2025-08-31 17:36:09] INFO accounts.models models <module>:146 Custom User Models
+[2025-08-31 17:36:09] INFO accounts.models models <module>:212 accounts.models Seller Models
+[2025-08-31 17:36:09] INFO accounts.models models <module>:238 accounts.models Buyer Models
+[2025-08-31 17:36:09] INFO accounts.models models <module>:261 accounts.models Shop Models
+[2025-08-31 17:36:09] INFO accounts.models models <module>:353 Buyer Shipping Address Models
+[2025-08-31 17:36:09] INFO accounts.models models <module>:393 Buyer Payment Method Models
+[2025-08-31 17:36:24] INFO accounts.models models <module>:114 Custom User Manager
+[2025-08-31 17:36:24] INFO accounts.models models <module>:146 Custom User Models
+[2025-08-31 17:36:24] INFO accounts.models models <module>:212 accounts.models Seller Models
+[2025-08-31 17:36:24] INFO accounts.models models <module>:238 accounts.models Buyer Models
+[2025-08-31 17:36:24] INFO accounts.models models <module>:261 accounts.models Shop Models
+[2025-08-31 17:36:24] INFO accounts.models models <module>:353 Buyer Shipping Address Models
+[2025-08-31 17:36:24] INFO accounts.models models <module>:393 Buyer Payment Method Models
+[2025-08-31 17:36:24] INFO accounts.models models <module>:114 Custom User Manager
+[2025-08-31 17:36:24] INFO accounts.models models <module>:146 Custom User Models
+[2025-08-31 17:36:24] INFO accounts.models models <module>:212 accounts.models Seller Models
+[2025-08-31 17:36:24] INFO accounts.models models <module>:238 accounts.models Buyer Models
+[2025-08-31 17:36:24] INFO accounts.models models <module>:261 accounts.models Shop Models
+[2025-08-31 17:36:24] INFO accounts.models models <module>:353 Buyer Shipping Address Models
+[2025-08-31 17:36:24] INFO accounts.models models <module>:393 Buyer Payment Method Models
+[2025-08-31 17:42:43] INFO accounts.views.address_lookup_views address_lookup_views perform_create:365 New region created: 2 - Region 1
+[2025-08-31 17:43:42] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 17:43:42] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 17:43:42] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 17:43:42] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 17:43:42] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 17:43:42] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 17:43:42] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 17:44:00] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 17:44:00] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 17:44:00] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 17:44:00] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 17:44:00] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 17:44:00] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 17:44:00] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 17:44:49] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 17:44:49] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 17:44:49] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 17:44:49] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 17:44:49] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 17:44:49] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 17:44:49] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 17:44:49] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 17:44:49] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 17:44:49] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 17:44:49] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 17:44:49] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 17:44:49] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 17:44:49] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 17:45:00] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 17:45:00] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 17:45:00] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 17:45:00] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 17:45:00] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 17:45:00] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 17:45:00] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 17:45:00] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 17:45:00] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 17:45:00] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 17:45:00] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 17:45:00] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 17:45:00] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 17:45:00] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 17:46:08] INFO accounts.views.address_lookup_views address_lookup_views get_queryset:357 Region queryset filtered: 2 results
+[2025-08-31 17:47:08] INFO accounts.views.address_lookup_views address_lookup_views get_queryset:357 Region queryset filtered: 2 results
+[2025-08-31 17:47:08] INFO accounts.views.address_lookup_views address_lookup_views perform_update:373 Region updated: 2 - Region 1
+[2025-08-31 17:47:39] INFO accounts.views.address_lookup_views address_lookup_views get_queryset:357 Region queryset filtered: 2 results
+[2025-08-31 17:47:59] INFO accounts.views.address_lookup_views address_lookup_views get_queryset:357 Region queryset filtered: 1 results
+[2025-08-31 17:48:17] INFO accounts.views.address_lookup_views address_lookup_views get_queryset:357 Region queryset filtered: 2 results
+[2025-08-31 18:20:48] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 18:20:48] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 18:20:48] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 18:20:48] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 18:20:48] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 18:20:48] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 18:20:48] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 18:21:04] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 18:21:04] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 18:21:04] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 18:21:04] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 18:21:04] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 18:21:04] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 18:21:04] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 18:21:16] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 18:21:16] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 18:21:16] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 18:21:16] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 18:21:16] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 18:21:16] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 18:21:16] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 18:21:28] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 18:21:28] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 18:21:28] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 18:21:28] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 18:21:28] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 18:21:28] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 18:21:28] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 18:21:41] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 18:21:41] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 18:21:41] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 18:21:41] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 18:21:41] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 18:21:41] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 18:21:41] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 18:21:51] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 18:21:51] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 18:21:51] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 18:21:51] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 18:21:51] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 18:21:51] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 18:21:51] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 18:21:59] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 18:21:59] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 18:21:59] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 18:21:59] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 18:21:59] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 18:21:59] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 18:21:59] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 18:22:09] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 18:22:09] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 18:22:09] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 18:22:09] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 18:22:09] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 18:22:09] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 18:22:09] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 18:22:18] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 18:22:18] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 18:22:18] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 18:22:18] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 18:22:18] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 18:22:18] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 18:22:18] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 18:22:27] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 18:22:27] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 18:22:27] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 18:22:27] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 18:22:27] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 18:22:27] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 18:22:27] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 18:22:37] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 18:22:37] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 18:22:37] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 18:22:37] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 18:22:37] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 18:22:37] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 18:22:37] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 18:22:47] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 18:22:47] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 18:22:47] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 18:22:47] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 18:22:47] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 18:22:47] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 18:22:47] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 18:22:56] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 18:22:56] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 18:22:56] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 18:22:56] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 18:22:56] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 18:22:56] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 18:22:56] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 18:23:04] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 18:23:04] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 18:23:04] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 18:23:04] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 18:23:04] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 18:23:04] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 18:23:04] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 18:23:38] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 18:23:38] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 18:23:38] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 18:23:38] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 18:23:38] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 18:23:38] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 18:23:38] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 18:23:46] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 18:23:46] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 18:23:46] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 18:23:46] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 18:23:46] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 18:23:46] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 18:23:46] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 18:24:17] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 18:24:17] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 18:24:17] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 18:24:17] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 18:24:17] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 18:24:17] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 18:24:17] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 18:24:44] INFO accounts.views.address_lookup_views address_lookup_views perform_create:167 New country created: 3 - Canada by user: Test2 User2
+[2025-08-31 18:24:58] INFO accounts.views.address_lookup_views address_lookup_views get_queryset:158 Country queryset filtered: 1 results by user: Test2 User2
+[2025-08-31 18:25:09] INFO accounts.views.address_lookup_views address_lookup_views get_queryset:158 Country queryset filtered: 3 results by user: Test2 User2
+[2025-08-31 18:25:09] INFO accounts.views.address_lookup_views address_lookup_views regions:210 Regions retrieved for country: Philippines by user: Test2 User2
+[2025-08-31 18:36:06] INFO accounts.views.address_lookup_views address_lookup_views get_queryset:158 Country queryset filtered: 3 results by user: Joseph Lorilla
+[2025-08-31 18:36:40] INFO accounts.views.address_lookup_views address_lookup_views get_queryset:572 Province queryset filtered: 1 results by user: Joseph Lorilla
+[2025-08-31 18:38:52] INFO accounts.views.address_lookup_views address_lookup_views get_queryset:363 Region queryset filtered: 2 results by user: Joseph Lorilla
+[2025-08-31 18:41:08] INFO accounts.views.address_lookup_views address_lookup_views perform_create:581 New province created: 2 - COT by user: Joseph Lorilla
+[2025-08-31 19:09:51] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 19:09:51] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 19:09:51] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 19:09:51] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 19:09:51] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 19:09:51] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 19:09:51] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 19:26:35] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 19:26:35] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 19:26:35] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 19:26:35] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 19:26:35] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 19:26:35] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 19:26:35] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 19:26:43] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 19:26:43] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 19:26:43] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 19:26:43] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 19:26:43] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 19:26:43] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 19:26:43] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 19:27:11] INFO accounts.models models <module>:118 Custom User Manager
+[2025-08-31 19:27:11] INFO accounts.models models <module>:150 Custom User Models
+[2025-08-31 19:27:11] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-08-31 19:27:11] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-08-31 19:27:11] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-08-31 19:27:11] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-08-31 19:27:11] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-08-31 19:27:28] INFO accounts.views.buyer_views buyer_views get_queryset:621 BuyerShippingAddress queryset filtered: 0 results by user: Test2 User2
+[2025-08-31 19:27:43] INFO accounts.views.buyer_views buyer_views get_queryset:894 BuyerPaymentMethod queryset filtered: 0 results by user: Test2 User2
+[2025-08-31 19:27:57] WARNING accounts.views.buyer_views buyer_views my_addresses:681 Buyer not found for user: test456 by user: Test2 User2
+[2025-08-31 19:28:07] WARNING accounts.views.buyer_views buyer_views my_payment_methods:954 Buyer not found for user: test456 by user: Test2 User2
+[2025-09-04 15:25:35] INFO accounts.models models <module>:118 Custom User Manager
+[2025-09-04 15:25:35] INFO accounts.models models <module>:150 Custom User Models
+[2025-09-04 15:25:35] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-09-04 15:25:35] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-09-04 15:25:35] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-09-04 15:25:35] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-09-04 15:25:35] INFO accounts.models models <module>:397 Buyer Payment Method Models
+[2025-09-04 15:25:35] INFO accounts.models models <module>:118 Custom User Manager
+[2025-09-04 15:25:35] INFO accounts.models models <module>:150 Custom User Models
+[2025-09-04 15:25:35] INFO accounts.models models <module>:216 accounts.models Seller Models
+[2025-09-04 15:25:35] INFO accounts.models models <module>:242 accounts.models Buyer Models
+[2025-09-04 15:25:35] INFO accounts.models models <module>:265 accounts.models Shop Models
+[2025-09-04 15:25:35] INFO accounts.models models <module>:357 Buyer Shipping Address Models
+[2025-09-04 15:25:35] INFO accounts.models models <module>:397 Buyer Payment Method Models
