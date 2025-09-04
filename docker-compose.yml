@@ -1,0 +1,16 @@
+version: "3.9"
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: julie-web
+    environment:
+      - DJANGO_SETTINGS_MODULE=julie.settings
+      - PYTHONUNBUFFERED=1
+    ports:
+      - "5.104.84.97:6000:8000"
+    volumes:
+      - .:/app
+    restart: unless-stopped
