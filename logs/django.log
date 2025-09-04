@@ -402,3 +402,21 @@ INFO 2025-08-30 19:10:17,422 basehttp 53124 6164770816 "GET /api/v1/schema/ HTTP
 [2025-09-04 15:25:44] INFO django.server basehttp 81356 6125039616 "GET /api/v1/schema/ HTTP/1.1" 200 354954
 [2025-09-04 15:26:44] WARNING django.server basehttp 81356 6125039616 "POST /api/v1/buyer-shipping-addresses/ HTTP/1.1" 401 58
 [2025-09-04 15:26:44] INFO django.server basehttp 81356 6125039616 "GET /__debug__/history_sidebar/?request_id=db2a785c977d48f89a2944282f9642c9 HTTP/1.1" 200 9533
+[2025-09-04 22:04:54] INFO django.utils.autoreload autoreload 34170 8244890624 Watching for file changes with StatReloader
+[2025-09-04 22:05:14] INFO django.utils.autoreload autoreload 34535 8244890624 Watching for file changes with StatReloader
+[2025-09-04 22:05:45] WARNING django.server basehttp 34535 6162870272 "GET /api/docs/ HTTP/1.1" 404 17282
+[2025-09-04 22:05:45] INFO django.server basehttp 34535 6179696640 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 14879
+[2025-09-04 22:05:45] INFO django.server basehttp 34535 6162870272 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 29468
+[2025-09-04 22:05:45] INFO django.server basehttp 34535 6162870272 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+[2025-09-04 22:05:45] INFO django.server basehttp 34535 6162870272 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4700
+[2025-09-04 22:05:45] WARNING django.server basehttp 34535 6162870272 "GET /favicon.ico HTTP/1.1" 404 17288
+[2025-09-04 22:05:56] WARNING django.server basehttp 34535 6162870272 "GET /api/docs/ HTTP/1.1" 404 17282
+[2025-09-04 22:06:17] INFO django.utils.autoreload autoreload 34535 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/julie/urls.py changed, reloading.
+[2025-09-04 22:06:17] INFO django.utils.autoreload autoreload 35211 8244890624 Watching for file changes with StatReloader
+[2025-09-04 22:06:29] WARNING django.server basehttp 35211 6171668480 "GET /api/docs/ HTTP/1.1" 404 17291
+[2025-09-04 22:06:42] WARNING django.server basehttp 35211 6171668480 "GET /api/docs/ HTTP/1.1" 404 17291
+[2025-09-04 22:06:43] WARNING django.server basehttp 35211 6171668480 "GET /api/docs/ HTTP/1.1" 404 17291
+[2025-09-04 22:06:58] INFO django.server basehttp 35211 6171668480 "GET /api/v1/docs/ HTTP/1.1" 200 18167
+[2025-09-04 22:06:59] INFO django.server basehttp 35211 6171668480 "GET /api/v1/schema/ HTTP/1.1" 200 355980
+[2025-09-04 22:48:15] INFO django.utils.autoreload autoreload 35211 8244890624 /Users/josh/Projects/Proj/tbi/julie/julie/julie/settings.py changed, reloading.
+[2025-09-04 22:48:15,757] INFO django.utils.autoreload autoreload 60838 8244890624 Watching for file changes with StatReloader
