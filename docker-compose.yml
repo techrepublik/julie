@@ -5,12 +5,36 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
+    command: gunicorn julie.wsgi:application --bind 0.0.0.0:8000 --workers 3
     container_name: julie-web
     environment:
       - DJANGO_SETTINGS_MODULE=julie.settings
       - PYTHONUNBUFFERED=1
+      - DB_ENGINE=django.db.backends.postgresql
+      - DB_NAME=julie_db01
+      - DB_USER=postgres
+      - DB_PASSWORD=P@ssw0rd
+      - DB_HOST=db
+      - DB_PORT=5432
     ports:
-      - "5.104.84.97:6000:8000"
+      - "6000:8000"
     volumes:
       - .:/app
+      - ./staticfiles:/code/staticfiles
     restart: unless-stopped
+    depends_on:
+      - db
+
+  db:
+    image: postgres:16-alpine
+    container_name: julie-db
+    environment:
+      - POSTGRES_DB=julie_db01
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=P@ssw0rd
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    restart: unless-stopped
+
+volumes:
+  pgdata:
